@@ -1,4 +1,7 @@
 ## Mobile-webpackPlugin-for-consoleDebug
+
+### [webpack-server-qrcode移动端扫码预览webpack插件](https://github.com/libin1991/webpack-server-qrcode?organization=libin1991&organization=libin1991)
+
 ### Description
 > 移动端调试debug plugin
 
