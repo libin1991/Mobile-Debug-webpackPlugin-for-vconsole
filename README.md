@@ -9,10 +9,15 @@
 
 ![demo](/assets/demo.gif)
 
-### Use
+### use
 ```
-npm install console-debug-webpack-plugin  --save-dev
+cnpm i console-debug-webpack-plugin  ——D
+```
+### webpack.config.js
+```
 const consoleDebugWebpackPlugin = require('console-debug-webpack-plugin');
+
+...
 
 module.exports = {
     plugins: [
