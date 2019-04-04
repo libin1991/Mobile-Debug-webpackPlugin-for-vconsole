@@ -1,5 +1,5 @@
 {
-  "name": "console-debug-webpack-plugin",
+  "name": "Mobile-webpackPlugin-for-consoleDebug",
   "version": "1.0.0",
   "description": "webpack plugin for mobile console debug",
   "main": "index.js",
