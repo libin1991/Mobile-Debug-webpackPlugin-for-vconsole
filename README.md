@@ -11,11 +11,11 @@
 
 ### use
 ```
-cnpm i console-debug-webpack-plugin  ——D
+cnpm i mobile-webpackplugin-for-consoledebug  ——D
 ```
 ### webpack.config.js
 ```
-const consoleDebugWebpackPlugin = require('console-debug-webpack-plugin');
+const consoleDebugWebpackPlugin = require('mobile-webpackplugin-for-consoledebug');
 
 ...
 
@@ -36,7 +36,7 @@ let glob = require('glob')
 var BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 const fs = require('fs-extra')
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');    //清除注释
-const consoleDebugWebpackPlugin = require('console-debug-webpack-plugin');   //移动端调试
+const consoleDebugWebpackPlugin = require('mobile-webpackplugin-for-consoledebug');   //移动端调试
 const WebpackServerQRcode = require('@ice-point/webpack-server-qrcode');    //移动端扫码
 //配置pages多页面获取当前文件夹下的html和js
 function getEntry(globPath) {
