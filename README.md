@@ -8,6 +8,9 @@
 ### Demo
 
 ![demo](/assets/demo.gif)
+![demo](/assets/2.gif)
+![demo](/assets/3.gif)
+![demo](/assets/1.gif)
 
 ### use
 ```
