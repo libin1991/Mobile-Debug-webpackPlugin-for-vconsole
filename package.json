@@ -1,6 +1,6 @@
 {
   "name": "mobile-webpackplugin-for-consoledebug",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "webpack plugin for mobile console debug",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,7 @@
     "eslint": "^5.14.1",
     "husky": "^1.3.1",
     "lint-staged": "^8.1.4"
-  }
+  },
+  "_from": "mobile-webpackplugin-for-consoledebug@2.0.1",
+  "_resolved": "http://registry.npm.taobao.org/mobile-webpackplugin-for-consoledebug/download/mobile-webpackplugin-for-consoledebug-2.0.1.tgz"
 }

@@ -1,4 +1,4 @@
-## Mobile-webpackPlugin-for-consoleDebug
+## Github:[Mobile-webpackPlugin-for-consoleDebug](https://github.com/libin1991/Mobile-webpackPlugin-for-consoleDebug)
 
 ### [webpack-server-qrcode移动端扫码预览webpack插件](https://github.com/libin1991/webpack-server-qrcode?organization=libin1991&organization=libin1991)
 
@@ -7,10 +7,10 @@
 
 ### Demo
 
-![demo](/assets/demo.gif)
-![demo](/assets/2.jpg)
-![demo](/assets/3.jpg)
-![demo](/assets/1.jpg)
+![demo](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/demo.gif)
+![demo1](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/2.jpg)
+![demo2](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/3.jpg)
+![demo3](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/1.jpg)
 
 ### use
 ```
