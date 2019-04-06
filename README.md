@@ -14,7 +14,7 @@
 
 ### use
 ```
-cnpm i mobile-webpackplugin-for-consoledebug  ——D
+cnpm i mobile-webpackplugin-for-consoledebug  —D
 ```
 ### webpack.config.js
 ```
