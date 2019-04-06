@@ -2,6 +2,10 @@
 
 ### [webpack-server-qrcode移动端扫码预览webpack插件](https://github.com/libin1991/webpack-server-qrcode?organization=libin1991&organization=libin1991)
 ### [eruda-vconsole](https://github.com/bywwcnll/eruda-vconsole)
+### [eruda](https://github.com/liriliri/eruda)
+### [eruda-webpack-plugin](https://github.com/libin1991/eruda-webpack-plugin)
+
+
 ### Description
 > 移动端调试debug plugin
 
