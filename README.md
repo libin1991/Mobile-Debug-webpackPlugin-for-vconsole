@@ -8,9 +8,9 @@
 ### Demo
 
 ![demo](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/demo.gif)
-![demo1](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/2.jpg)
-![demo2](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/3.jpg)
-![demo3](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/1.jpg)
+<div align=center>![demo1](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/2.jpg)</div>
+<div align=center>![demo2](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/3.jpg)</div>
+<div align=center>![demo3](https://raw.githubusercontent.com/libin1991/Mobile-webpackPlugin-for-consoleDebug/master/assets/1.jpg)</div>
 
 ### use
 ```
