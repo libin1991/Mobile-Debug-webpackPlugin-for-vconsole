@@ -8,6 +8,7 @@
 ---
 ### [帮助webpack连接文件并注入到html ](https://github.com/hxlniada/webpack-concat-plugin)
 ### [webpack内联代码插件](https://github.com/libin1991/webpack-inline-code-plugin)
+### [insert内联 webpack 可以节省额外的 HTTP 请求](https://github.com/libin1991/html-webpack-inline-source-plugin?organization=libin1991&organization=libin1991)
 
 ---
 ### Description
