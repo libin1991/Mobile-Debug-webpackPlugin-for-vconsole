@@ -5,7 +5,11 @@
 ### [eruda](https://github.com/liriliri/eruda)
 ### [eruda-webpack-plugin](https://github.com/libin1991/eruda-webpack-plugin)
 
+---
+### [帮助webpack连接文件并注入到html ](https://github.com/hxlniada/webpack-concat-plugin)
+### [webpack内联代码插件](https://github.com/libin1991/webpack-inline-code-plugin)
 
+---
 ### Description
 > 移动端调试debug plugin
 
