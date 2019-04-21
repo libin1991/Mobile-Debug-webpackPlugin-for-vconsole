@@ -1,5 +1,11 @@
-## Github:[Mobile-webpackPlugin-for-consoleDebug](https://github.com/libin1991/Mobile-webpackPlugin-for-consoleDebug)
+### Github:[Mobile-webpackPlugin-for-consoleDebug](https://github.com/libin1991/Mobile-webpackPlugin-for-consoleDebug)
+### [Ts + React + Mobx 实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2)
+### [基于 Typescript + React + Mobx 实现的移动端前端调试控制台Console](https://github.com/libin1991/myConsole?organization=libin1991&organization=libin1991) 
+### [react-devtools](https://github.com/libin1991/react-devtools)
+### [更酷的Console，更简单的输出方式，Enjoy it in Vue](https://juejin.im/post/5aef271c51882506a36c69a7)
+### [基于 H5 开发的移动端 Web 调试工具，高度还原了 Chrome DevTools 功能和交互](https://github.com/libin1991/web-console)
 
+---
 ### [webpack-server-qrcode移动端扫码预览webpack插件](https://github.com/libin1991/webpack-server-qrcode?organization=libin1991&organization=libin1991)
 ### [eruda-vconsole](https://github.com/bywwcnll/eruda-vconsole)
 ### [eruda](https://github.com/liriliri/eruda)
