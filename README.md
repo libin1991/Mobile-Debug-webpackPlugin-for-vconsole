@@ -1,4 +1,31 @@
 ### Github:[Mobile-webpackPlugin-for-consoleDebug](https://github.com/libin1991/Mobile-webpackPlugin-for-consoleDebug)
+### 调试控制台
+eruda
+
+vconsole
+```
+<script src="http://wechatfe.github.io/vconsole/lib/vconsole.min.js?v=3.3.0"></script>
+        <script type="text/javascript">
+            window.vConsole = new window.VConsole();
+        </script>
+```
+在调试方面，本项目使用 eruda 作为手机端调试面板，功能相当于打开 PC 控制台，可以很方便地查看 console, network, cookie, localStorage 等关键调试信息。与之类似地工具还有微信的前端研发团队开发的 vconsole，各位可以选择适合自己项目的工具。
+
+关于 eruda 使用，推荐使用 cdn 方式加载，至于什么时候加载 eruda，可以根据不同项目制定不同策略。示例代码如下：
+```
+<script>
+  (function() {
+    const NO_ERUDA = window.location.protocol === 'https:';
+    if (NO_ERUDA) return;
+    const src = 'https://cdn.jsdelivr.net/npm/eruda@1.5.8/eruda.min.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    document.write('<scr' + 'ipt>eruda.init();</scr' + 'ipt>');
+  })();
+</script>
+```
+
+
+
 ### [Ts + React + Mobx 实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2)
 ### [基于 Typescript + React + Mobx 实现的移动端前端调试控制台Console](https://github.com/libin1991/myConsole?organization=libin1991&organization=libin1991) 
 ### [react-devtools](https://github.com/libin1991/react-devtools)
